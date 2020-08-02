@@ -7,9 +7,12 @@ assignees: ''
 
 ---
 
-# Write the content of the suggestion here.
-# Add comments to the suggestion as separate comments in the issue thread.
+<!--
+Write the content of the suggestion here.
+Add comments to the suggestion as separate comments in the issue thread.
+-->
 
-
-# List the original authors' GitHub handles or names here.
+<!--
+List the original authors' GitHub handles or names here.
+-->
 **Original authors**:
