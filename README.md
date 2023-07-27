@@ -8,3 +8,4 @@ If you have a suggestion, please go ahead and:
 
 1. Search the [issues](https://github.com/bids-standard/bids-2-devel/issues) to see whether your suggestion has been discussed before or
 1. Open [a new issue](https://github.com/bids-standard/bids-2-devel/issues/new) otherwise
+1. Vote for issues via 👍and 👎 on the issues. [Dashboard of issues sorted by thumb-up](https://github.com/bids-standard/bids-2-devel/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
